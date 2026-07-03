@@ -1,0 +1,13 @@
+{
+  "domain": "grundig_connect",
+  "name": "Grundig Connect",
+  "version": "1.0.0",
+  "config_flow": true,
+  "integration_type": "hub",
+  "iot_class": "cloud_push",
+  "documentation": "https://github.com/nihatds100/ha-grundig-connect",
+  "issue_tracker": "https://github.com/nihatds100/ha-grundig-connect/issues",
+  "codeowners": ["@nihatds100"],
+  "requirements": [],
+  "loggers": ["custom_components.grundig_connect"]
+}

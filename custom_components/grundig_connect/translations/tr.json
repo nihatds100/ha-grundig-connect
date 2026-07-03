@@ -1,0 +1,22 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Grundig Connect",
+        "description": "Grundig Connect hesabınızla giriş yapın.",
+        "data": {
+          "email": "E-Posta adresiniz",
+          "password": "Şifreniz"
+        }
+      }
+    },
+    "error": {
+      "invalid_auth": "Giriş başarısız (e-posta / şifre hatalı).",
+      "cannot_connect": "Sunucuya bağlanılamadı.",
+      "no_devices": "Hesapta klima bulunamadı."
+    },
+    "abort": {
+      "already_configured": "Zaten yapılandırılmış."
+    }
+  }
+}

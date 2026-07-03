@@ -1,0 +1,22 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Grundig Connect",
+        "description": "Sign in with your Grundig Connect account.",
+        "data": {
+          "email": "Your email address",
+          "password": "Your password"
+        }
+      }
+    },
+    "error": {
+      "invalid_auth": "Login failed (wrong email / password).",
+      "cannot_connect": "Could not connect to the server.",
+      "no_devices": "No air conditioner found on the account."
+    },
+    "abort": {
+      "already_configured": "Already configured."
+    }
+  }
+}
